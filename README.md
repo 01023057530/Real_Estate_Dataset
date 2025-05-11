@@ -1,6 +1,6 @@
 # Real_Estate_Dataset
 
-## 🏡 Project: Real Estate Price Prediction using Fine-Tuned LLM
+## 🏡 Task1: Real Estate Price Prediction using Fine-Tuned LLM
 
 ### ✅ Project Description & Benefits:
 
@@ -20,7 +20,7 @@ Evaluation & Inference: Trained and saved the model, then used the vLLM framewor
 Model Merging: Merged the LoRA adapters back into the base model, simplifying deployment.
 
 
-### 🤖 Project: AI Agent System for Smart Meeting Room Booking
+### 🤖 Task2: AI Agent System for Smart Meeting Room Booking
 
 ### ✅ Project Benefits:
 
